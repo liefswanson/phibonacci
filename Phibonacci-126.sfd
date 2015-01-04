@@ -1,0 +1,789 @@
+SplineFontDB: 3.0
+FontName: Phibonacci
+FullName: Phibonacci
+FamilyName: Phibonacci
+Weight: Black
+Copyright: Created with FontForge 2.0 (http://fontforge.sf.net)
+UComments: "2013-7-11: Created." 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -621.627
+UnderlineWidth: 131.928
+Ascent: 2584
+Descent: 987
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 529 10773 28408]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1373607114
+ModificationTime: 1376855825
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -36
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 25 25 7
+BeginPrivate: 0
+EndPrivate
+Grid
+1508 3166 m 0
+ 1508 -3975 l 0
+89 3166 m 0
+ 89 -3975 l 0
+-3571 -898 m 0
+ 7142 -898 l 0
+-3571 89 m 0
+ 7142 89 l 0
+-3571 2495 m 0
+ 7142 2495 l 0
+-3571 1508 m 0
+ 7142 1508 l 0
+0 3166 m 0
+ 0 -3975 l 0
+-3571 2584 m 0
+ 7142 2584 l 0
+-3571 -987 m 0
+ 7142 -987 l 0
+-3571 0 m 0
+ 7142 0 l 0
+-3571 1597 m 0
+ 7142 1597 l 0
+1597 3166 m 0
+ 1597 -3975 l 0
+EndSplineSet
+BeginChars: 1114112 68
+
+StartChar: uni0000
+Encoding: 0 0 0
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0001
+Encoding: 1 1 1
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0002
+Encoding: 2 2 2
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0003
+Encoding: 3 3 3
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0004
+Encoding: 4 4 4
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0005
+Encoding: 5 5 5
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0006
+Encoding: 6 6 6
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0007
+Encoding: 7 7 7
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0008
+Encoding: 8 8 8
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0009
+Encoding: 9 9 9
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni000A
+Encoding: 10 10 10
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni000B
+Encoding: 11 11 11
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni000C
+Encoding: 12 12 12
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni000D
+Encoding: 13 13 13
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni000E
+Encoding: 14 14 14
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni000F
+Encoding: 15 15 15
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0010
+Encoding: 16 16 16
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0011
+Encoding: 17 17 17
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0012
+Encoding: 18 18 18
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0013
+Encoding: 19 19 19
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0014
+Encoding: 20 20 20
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0015
+Encoding: 21 21 21
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0016
+Encoding: 22 22 22
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0017
+Encoding: 23 23 23
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0018
+Encoding: 24 24 24
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0019
+Encoding: 25 25 25
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni001A
+Encoding: 26 26 26
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni001B
+Encoding: 27 27 27
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni001C
+Encoding: 28 28 28
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni001D
+Encoding: 29 29 29
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni001E
+Encoding: 30 30 30
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni007F
+Encoding: 127 127 31
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0080
+Encoding: 128 128 32
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0081
+Encoding: 129 129 33
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0082
+Encoding: 130 130 34
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0083
+Encoding: 131 131 35
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0084
+Encoding: 132 132 36
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0085
+Encoding: 133 133 37
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0086
+Encoding: 134 134 38
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0087
+Encoding: 135 135 39
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0088
+Encoding: 136 136 40
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0089
+Encoding: 137 137 41
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni008A
+Encoding: 138 138 42
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni008B
+Encoding: 139 139 43
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni008C
+Encoding: 140 140 44
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni008D
+Encoding: 141 141 45
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni008E
+Encoding: 142 142 46
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni008F
+Encoding: 143 143 47
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0090
+Encoding: 144 144 48
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0091
+Encoding: 145 145 49
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0092
+Encoding: 146 146 50
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0093
+Encoding: 147 147 51
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0094
+Encoding: 148 148 52
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0095
+Encoding: 149 149 53
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0096
+Encoding: 150 150 54
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0097
+Encoding: 151 151 55
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0098
+Encoding: 152 152 56
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni0099
+Encoding: 153 153 57
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni009A
+Encoding: 154 154 58
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni009B
+Encoding: 155 155 59
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni009C
+Encoding: 156 156 60
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni009D
+Encoding: 157 157 61
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni009E
+Encoding: 158 158 62
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni009F
+Encoding: 159 159 63
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: uni001F
+Encoding: 31 31 64
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Colour: 0
+EndChar
+
+StartChar: a
+Encoding: 97 97 65
+Width: 1830
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+377 798 m 0
+ 377 565 566 377 799 377 c 2
+ 1220 377 l 1
+ 1220 798 l 2
+ 1220 1031 1032 1220 799 1220 c 0
+ 566 1220 377 1031 377 798 c 0
+0 798 m 0
+ 0 1239 357 1597 798 1597 c 0
+ 1239 1597 1597 1239 1597 798 c 2
+ 1597 0 l 1
+ 798 0 l 2
+ 357 0 0 357 0 798 c 0
+EndSplineSet
+EndChar
+
+StartChar: s
+Encoding: 115 115 66
+Width: 1830
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+SplineSet
+0 0 m 29
+ 1597 1597 l 29
+610 494 m 4
+ 610 766 831 987 1103 987 c 4
+ 1375 987 1597 766 1597 494 c 4
+ 1597 222 1375 0 1103 0 c 4
+ 831 0 610 222 610 494 c 4
+  Spiro
+    610 494 o
+    677.242 742.485 o
+    854.515 919.758 o
+    1103 987 o
+    1351.74 919.758 o
+    1529.5 742.485 o
+    1597 494 o
+    1529.5 245.257 o
+    1351.74 67.5008 o
+    1103 0 o
+    854.515 67.5008 o
+    677.242 245.257 o
+    0 0 z
+  EndSpiro
+987 1103 m 4
+ 987 831 766 610 494 610 c 4
+ 222 610 0 831 0 1103 c 4
+ 0 1375 222 1597 494 1597 c 4
+ 766 1597 987 1375 987 1103 c 4
+  Spiro
+    987 1103 o
+    919.758 854.515 o
+    742.485 677.242 o
+    494 610 o
+    245.257 677.242 o
+    67.5008 854.515 o
+    0 1103 o
+    67.5008 1351.74 o
+    245.257 1529.5 o
+    494 1597 o
+    742.485 1529.5 o
+    919.758 1351.74 o
+    0 0 z
+  EndSpiro
+987 493 m 4
+ 987 557 1039 610 1103 610 c 4
+ 1167 610 1220 557 1220 493 c 4
+ 1220 429 1167 377 1103 377 c 4
+ 1039 377 987 429 987 493 c 4
+  Spiro
+    987 493 o
+    1002.82 551.726 o
+    1044.53 593.92 o
+    1103 610 o
+    1161.73 593.92 o
+    1203.92 551.726 o
+    1220 493 o
+    1203.92 434.533 o
+    1161.73 392.822 o
+    1103 377 o
+    1044.53 392.822 o
+    1002.82 434.533 o
+    0 0 z
+  EndSpiro
+610 1104 m 4
+ 610 1040 558 987 494 987 c 4
+ 430 987 377 1040 377 1104 c 4
+ 377 1168 430 1220 494 1220 c 4
+ 558 1220 610 1168 610 1104 c 4
+  Spiro
+    610 1104 o
+    594.178 1045.27 o
+    552.467 1003.08 o
+    494 987 o
+    435.274 1003.08 o
+    393.08 1045.27 o
+    377 1104 o
+    393.08 1162.47 o
+    435.274 1204.18 o
+    494 1220 o
+    552.467 1204.18 o
+    594.178 1162.47 o
+    0 0 z
+  EndSpiro
+0 0 m 5
+ 0 377 l 5
+ 1597 377 l 5
+ 1597 0 l 5
+ 0 0 l 5
+  Spiro
+    0 0 v
+    0 377 v
+    1597 377 v
+    1597 0 v
+    0 0 z
+  EndSpiro
+0 1220 m 5
+ 0 1597 l 5
+ 1597 1597 l 5
+ 1597 1220 l 5
+ 0 1220 l 5
+  Spiro
+    0 1220 v
+    0 1597 v
+    1597 1597 v
+    1597 1220 v
+    0 0 z
+  EndSpiro
+0 610 m 5
+ 0 987 l 5
+ 1597 987 l 5
+ 1597 610 l 5
+ 0 610 l 5
+  Spiro
+    0 610 v
+    0 987 v
+    1597 987 v
+    1597 610 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+Fore
+SplineSet
+1103 610 m 2
+ 494 610 l 2
+ 222 610 0 831 0 1103 c 0
+ 0 1375 222 1597 494 1597 c 2
+ 1597 1597 l 1
+ 1597 1220 l 1
+ 494 1220 l 2
+ 430 1220 377 1168 377 1104 c 0
+ 377 1040 430 987 494 987 c 2
+ 1103 987 l 2
+ 1375 987 1597 766 1597 494 c 0
+ 1597 222 1375 0 1103 0 c 2
+ 0 0 l 1
+ 0 377 l 1
+ 1103 377 l 2
+ 1167 377 1220 429 1220 493 c 0
+ 1220 557 1167 610 1103 610 c 2
+EndSplineSet
+EndChar
+
+StartChar: o
+Encoding: 111 111 67
+Width: 1830
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+88 799 m 4
+ 88 407 406 89 798 89 c 4
+ 1190 89 1507 407 1507 799 c 4
+ 1507 1191 1190 1508 798 1508 c 4
+ 406 1508 88 1191 88 799 c 4
+0 798 m 0
+ 0 1239 357 1597 798 1597 c 0
+ 1239 1597 1597 1239 1597 798 c 0
+ 1597 357 1239 0 798 0 c 0
+ 357 0 0 357 0 798 c 0
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

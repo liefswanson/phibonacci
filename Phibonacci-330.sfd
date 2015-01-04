@@ -1,0 +1,241 @@
+SplineFontDB: 3.0
+FontName: Phibonacci-330
+FullName: Phibonacci 330
+FamilyName: Phibonacci
+Weight: light
+Copyright: Created with FontForge 2.0 (http://fontforge.sf.net)
+UComments: "2013-7-11: Created."
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -879
+UnderlineWidth: 185
+Ascent: 3660
+Descent: 1398
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 529 10773 28408]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1373607114
+ModificationTime: 1419684439
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 455
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2CapHeight: 0
+OS2XHeight: 0
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: UnicodeFull
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -36
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 25 18
+BeginPrivate: 0
+EndPrivate
+Grid
+-5058 3660 m 0
+ 10116 3660 l 1024
+-5058 0 m 0
+ 10116 0 l 1024
+-5058 330 m 0
+ 10116 330 l 1024
+-5058 3330 m 0
+ 10116 3330 l 1024
+-5058 1932 m 0
+ 10116 1932 l 1024
+-5058 2262 m 0
+ 10116 2262 l 1024
+2262 -6456 m 0
+ 2262 8718 l 1024
+1932 -6456 m 0
+ 1932 8718 l 1024
+330 -6456 m 0
+ 330 8718 l 1024
+0 -6456 m 0
+ 0 8718 l 1024
+-5058 1296 m 0
+ 10116 1296 l 1024
+-5058 966 m 0
+ 10116 966 l 1024
+EndSplineSet
+BeginChars: 1114112 5
+
+StartChar: uni0000
+Encoding: 97 97 0
+Width: 2466
+VWidth: 0
+Flags: W
+HStem: 0 330<742.378 1932> 1932 330<737.422 1524.58>
+VStem: 0 330<737.422 1524.58> 1932 330<330 1519.62>
+LayerCount: 2
+Back
+Fore
+SplineSet
+330 1131 m 0
+ 330 689 689 330 1131 330 c 0
+ 1932 330 l 1
+ 1932 1131 l 0
+ 1932 1573 1573 1932 1131 1932 c 0
+ 689 1932 330 1573 330 1131 c 0
+0 1131 m 0
+ 0 1755 507 2262 1131 2262 c 0
+ 1755 2262 2262 1755 2262 1131 c 0
+ 2262 0 l 1
+ 1131 0 l 0
+ 507 0 0 507 0 1131 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: o
+Encoding: 111 111 1
+Width: 2466
+VWidth: 0
+Flags: W
+HStem: 0 330<737.422 1524.58> 1932 330<737.422 1524.58>
+VStem: 0 330<737.422 1524.58> 1932 330<737.422 1524.58>
+LayerCount: 2
+Back
+Fore
+SplineSet
+330 1131 m 0
+ 330 689 689 330 1131 330 c 0
+ 1573 330 1932 689 1932 1131 c 0
+ 1932 1573 1573 1932 1131 1932 c 0
+ 689 1932 330 1573 330 1131 c 0
+0 1131 m 0
+ 0 1755 507 2262 1131 2262 c 0
+ 1755 2262 2262 1755 2262 1131 c 0
+ 2262 507 1755 0 1131 0 c 0
+ 507 0 0 507 0 1131 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: n
+Encoding: 110 110 2
+Width: 2136
+VWidth: 0
+Flags: W
+HStem: 0 21G<0 330 1602 1932> 1932 330<330 1189.62>
+VStem: 0 330<0 1932> 1602 330<0 1519.62>
+LayerCount: 2
+Back
+Fore
+SplineSet
+1932 0 m 0
+ 1602 0 l 0
+ 1602 1131 l 0
+ 1602 1573 1243 1932 801 1932 c 0
+ 330 1932 l 1
+ 330 0 l 0
+ 0 0 l 0
+ 0 2262 l 1
+ 801 2262 l 0
+ 1425 2262 1932 1755 1932 1131 c 0
+ 1932 0 l 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: w
+Encoding: 119 119 3
+Width: 3330
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+SplineSet
+2466 782 m 2
+ 2466 533 2264 330 2015 330 c 0
+ 1766 330 1563 533 1563 782 c 2
+ 1563 2262 l 1
+ 1233 2262 l 1
+ 1233 782 l 2
+ 1233 533 1031 330 782 330 c 0
+ 533 330 330 533 330 782 c 2
+ 330 2262 l 1
+ 0 2262 l 1
+ 0 782 l 2
+ 0 351 350 0 781 0 c 0
+ 1031.2600895 2.84217094304e-14 1254.54783824 118.341145078 1397.80996282 301.970151831 c 1
+ 1540.78931602 118.341145078 1763.7399105 0 2014 0 c 0
+ 2445 0 2796 351 2796 782 c 2
+ 2796 2262 l 1
+ 2466 2262 l 1
+ 2466 782 l 2
+EndSplineSet
+Fore
+SplineSet
+2796 864 m 2
+ 2796 2262 l 1
+ 3126 2262 l 1
+ 3126 864 l 2
+ 3126 387 2739 0 2262 0 c 0
+ 1974.73465095 0 1720.11096195 140.359138199 1563 356.206347595 c 1
+ 1405.88903805 140.359138199 1151.26534905 -1.42108547152e-13 864 0 c 0
+ 387 0 0 387 0 864 c 2
+ 0 2262 l 1
+ 330 2262 l 1
+ 330 864 l 2
+ 330 569 569 330 864 330 c 0
+ 1159 330 1398 569 1398 864 c 2
+ 1398 2262 l 1
+ 1728 2262 l 1
+ 1728 864 l 2
+ 1728 569 1967 330 2262 330 c 0
+ 2557 330 2796 569 2796 864 c 2
+EndSplineSet
+Validated: 524289
+EndChar
+
+StartChar: s
+Encoding: 115 115 4
+Width: 1806
+VWidth: 0
+Flags: WO
+HStem: 0 330<165 1191.65> 966 330<410.345 1191.65> 1932 330<410.345 1437>
+VStem: 0 330<1374.88 1853.12> 1272 330<408.882 887.118>
+CounterMasks: 1 e0
+LayerCount: 2
+Back
+Fore
+SplineSet
+165 330 m 1
+ 954 330 l 2
+ 1130 330 1272 472 1272 648 c 0
+ 1272 824 1130 966 954 966 c 2
+ 648 966 l 2
+ 290 966 0 1256 0 1614 c 0
+ 0 1972 290 2262 648 2262 c 2
+ 1602 2262 l 1
+ 1437 1932 l 1
+ 648 1932 l 2
+ 472 1932 330 1790 330 1614 c 0
+ 330 1438 472 1296 648 1296 c 2
+ 954 1296 l 2
+ 1312 1296 1602 1006 1602 648 c 0
+ 1602 290 1312 0 954 0 c 2
+ 0 0 l 1
+ 165 330 l 1
+EndSplineSet
+Validated: 1
+EndChar
+EndChars
+EndSplineFont
