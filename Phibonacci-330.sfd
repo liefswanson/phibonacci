@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1373607114
-ModificationTime: 1420699352
+ModificationTime: 1420699371
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -571,9 +571,9 @@ EndChar
 
 StartChar: l
 Encoding: 108 108 16
-Width: 5058
+Width: 534
 VWidth: 0
-Flags: HO
+Flags: HW
 LayerCount: 2
 Back
 Fore
