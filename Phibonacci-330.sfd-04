@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1373607114
-ModificationTime: 1420699352
+ModificationTime: 1420618573
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -46,7 +46,7 @@ NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 51 18
+WinInfo: 50 25 18
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -92,7 +92,7 @@ Grid
  0 8718 l 1024
 10116 966 m 1024
 EndSplineSet
-BeginChars: 1114112 19
+BeginChars: 1114112 17
 
 StartChar: uni0000
 Encoding: 97 97 0
@@ -411,19 +411,19 @@ LayerCount: 2
 Back
 Fore
 SplineSet
-0 3660 m 5
- 330 3660 l 5
- 330 1928.99720393 l 5
- 534.867934639 2134.62961785 818.237384764 2262 1131 2262 c 4
- 1755 2262 2262 1755 2262 1131 c 4
- 2262 507 1755 0 1131 0 c 4
- 507 0 0 507 0 1131 c 6
- 0 3660 l 5
-330 1131 m 4
- 330 689 689 330 1131 330 c 4
- 1573 330 1932 689 1932 1131 c 4
- 1932 1573 1573 1932 1131 1932 c 4
- 689 1932 330 1573 330 1131 c 4
+0 3660 m 1
+ 330 3660 l 1
+ 330 1928.99720393 l 1
+ 534.867934639 2134.62961785 818.237384764 2262 1131 2262 c 0
+ 1755 2262 2262 1755 2262 1131 c 0
+ 2262 507 1755 0 1131 0 c 0
+ 507 0 0 507 0 1131 c 2
+ 0 3660 l 1
+330 1131 m 0
+ 330 689 689 330 1131 330 c 0
+ 1573 330 1932 689 1932 1131 c 0
+ 1932 1573 1573 1932 1131 1932 c 0
+ 689 1932 330 1573 330 1131 c 0
 EndSplineSet
 EndChar
 
@@ -513,13 +513,13 @@ LayerCount: 2
 Back
 Fore
 SplineSet
-330 1131 m 6
- 330 1573 689 1932 1131 1932 c 5
- 1131 2262 l 5
- 507 2262 0 1755 0 1131 c 6
- 0 0 l 5
- 330 0 l 5
- 330 1131 l 6
+330 1131 m 2
+ 330 1573 689 1932 1131 1932 c 1
+ 1131 2262 l 1
+ 507 2262 0 1755 0 1131 c 2
+ 0 0 l 1
+ 330 0 l 1
+ 330 1131 l 2
 EndSplineSet
 EndChar
 
@@ -550,7 +550,7 @@ StartChar: i
 Encoding: 105 105 15
 Width: 534
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Back
 Fore
@@ -571,69 +571,12 @@ EndChar
 
 StartChar: l
 Encoding: 108 108 16
-Width: 5058
+Width: 2262
 VWidth: 0
-Flags: HO
+Flags: W
 LayerCount: 2
 Back
 Fore
-SplineSet
-0 3660 m 1
- 330 3660 l 1
- 330 0 l 1
- 0 0 l 1
- 0 3660 l 1
-EndSplineSet
-EndChar
-
-StartChar: p
-Encoding: 112 112 17
-Width: 2466
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-0 -1398 m 5
- 0 1131 l 6
- 0 1755 507 2262 1131 2262 c 4
- 1755 2262 2262 1755 2262 1131 c 4
- 2262 507 1755 0 1131 0 c 4
- 818.237304688 0 534.868164062 127.370117188 330 333.002929688 c 5
- 330 -1398 l 5
- 0 -1398 l 5
-330 1131 m 4
- 330 689 689 330 1131 330 c 4
- 1573 330 1932 689 1932 1131 c 4
- 1932 1573 1573 1932 1131 1932 c 4
- 689 1932 330 1573 330 1131 c 4
-EndSplineSet
-EndChar
-
-StartChar: q
-Encoding: 113 113 18
-Width: 2466
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-2262 -1398 m 5
- 1932 -1398 l 5
- 1932 333.002929688 l 5
- 1727.13183594 127.370117188 1443.76269531 0 1131 0 c 4
- 507 0 0 507 0 1131 c 4
- 0 1755 507 2262 1131 2262 c 4
- 1755 2262 2262 1755 2262 1131 c 6
- 2262 -1398 l 5
-1932 1131 m 4
- 1932 1573 1573 1932 1131 1932 c 4
- 689 1932 330 1573 330 1131 c 4
- 330 689 689 330 1131 330 c 4
- 1573 330 1932 689 1932 1131 c 4
-EndSplineSet
 EndChar
 EndChars
 EndSplineFont
